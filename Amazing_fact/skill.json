@@ -1,0 +1,61 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "en-US": {
+          "summary": "amazing fact about everything and random fact, facts on cars, fact on animal, fact on humans everything use this skill to gain awesome knowledge",
+          "examplePhrases": [
+            "Alexa, open amazing fact",
+            "Alexa, ask amazing fact to give me amazing fact",
+            "Alexa open amazing fact and give me some information"
+          ],
+          "keywords": [
+            "amazing",
+            "fact",
+            "fact",
+            "best",
+            "fact",
+            "knowbest",
+            "fact",
+            "facts",
+            "awesomefact",
+            "facts"
+          ],
+          "name": "Amazing fact",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/5dc9/5fa66a93bd8c40bb8852f4eb8a9e1098/APP_ICON?versionId=NwJtvbDZxVLKjEG5hVzJGC.ZM6cK8Gir&AWSAccessKeyId=AKIAI3X6PUXD7CU5F5BQ&Expires=1522758142&Signature=AwItzCfhTYp6edWOw1Nsm2l5wwI%3D",
+          "description": "amazing fact about everything and random fact, facts on cars, fact on animal, fact on humans everything use this skill to gain awesome knowledge about everything and shock others ...!",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/3a89/8603d31a36234a23991977ad5fdefb64/APP_ICON_LARGE?versionId=UcwxCQ4E9anfNv5ZdrfNX4S6hTqL7X4.&AWSAccessKeyId=AKIAI3X6PUXD7CU5F5BQ&Expires=1522758142&Signature=ugX7rPRdnr5BgYZ2qaK9hu92E08%3D"
+        },
+        "en-IN": {
+          "summary": "amazing fact about everything and random fact, facts on cars, fact on animal, fact on humans everything use this skill to gain awesome knowledge about everythin",
+          "examplePhrases": [
+            "Alexa open amazing fact and give me some information"
+          ],
+          "name": "Amazing fact",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/7b0c/4048658f7eb8408b84c4a6bef362be6e/APP_ICON?versionId=eOYI5JzUtAPnKCsX_hDfhDiNpGBgQ53y&AWSAccessKeyId=AKIAI3X6PUXD7CU5F5BQ&Expires=1522758142&Signature=MkCFaIYSCodcaS3i57WkEsE8p%2BU%3D",
+          "description": "amazing fact about everything and random fact, facts on cars, fact on animal, fact on humans everything use this skill to gain awesome knowledge about everything and shock others ...!",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/6c2f/59aba17e330948788db61e792b233074/APP_ICON_LARGE?versionId=6GHbiyWtFz0cFv5BEuM_F3XzO5DbEJWg&AWSAccessKeyId=AKIAI3X6PUXD7CU5F5BQ&Expires=1522758142&Signature=Ou4nkex9JS21btqCO9lZ8Clw%2FUI%3D"
+        }
+      },
+      "isAvailableWorldwide": true,
+      "testingInstructions": "Alexa, open amazing fact , Alexa, ask amazing fact to give me amazing fact, give fact",
+      "category": "EDUCATION_AND_REFERENCE",
+      "distributionCountries": []
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "sourceDir": "lambda\\custom"
+        }
+      }
+    },
+    "manifestVersion": "1.0",
+    "privacyAndCompliance": {
+      "allowsPurchases": false,
+      "isExportCompliant": true,
+      "containsAds": false,
+      "isChildDirected": false,
+      "usesPersonalInfo": false
+    }
+  }
+}

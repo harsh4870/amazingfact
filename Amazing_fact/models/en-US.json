@@ -1,0 +1,55 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "amazing fact",
+      "intents": [
+        {
+          "name": "GetNewFactIntent",
+          "samples": [
+            "a amazing fact",
+            "open amazing fact",
+            "ask amazing fact to give me amazing fact",
+            "ask amazing fact to tell me amazing fact",
+            "ask amazing fact to open amazing fact",
+            "open amazingfact",
+            "give me a amazing fact",
+            "open a amazing fact",
+            "tell me amazing fact",
+            "tell me a amazing fact",
+            "give me amazing fact",
+            "give me a amazing fact",
+            "tell me trivia",
+            "give me trivia",
+            "give me some information",
+            "tell me something",
+            "give me something"
+          ]
+        },
+        {
+          "name": "GetHarshManvar",
+          "samples": [
+            "say hello to Harsh",
+            "say hello harsh",
+            "say hello harsh manvar",
+            "say hello harsh",
+            "say hello manvar",
+            "say hi harsh manvar",
+            "say hi harsh",
+            "harsh manvar",
+            "a harsh manvar",
+            "harsh"
+          ]
+        },
+        {
+          "name": "AMAZON.HelpIntent"
+        },
+        {
+          "name": "AMAZON.StopIntent"
+        },
+        {
+          "name": "AMAZON.CancelIntent"
+        }
+      ]
+    }
+  }
+}
